@@ -1,9 +1,9 @@
 using system
 namespace helloWorld
 {
-  static vopid main(string[] args)
+  static void main(string[] args)
   {
-    Console.WriteLine("HelloWolrd");
+    Console.WriteLine("HelloWorldddddddd");
     Console.Readline();
   }
 }
